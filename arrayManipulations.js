@@ -12,7 +12,7 @@ case'Add':
     arrFromNumbers.push(token[1]); break;
 case 'Remove':
  
-    // arrFromNumbers = arrFromNumbers.filter(el => el!== token[1]); break;
+     arrFromNumbers = arrFromNumbers.filter(el => el!== token[1]); break;
 
   
 case 'RemoveAt':
